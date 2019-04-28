@@ -1,15 +1,11 @@
-# Face_recognition
-* Face Recognition Python is the latest trend in Machine Learning techniques. OpenCV, the most popular library for computer vision, provides bindings for Python. OpenCV uses machine learning algorithms to search for faces within a picture.</br>
-* Facial Recognition is a category of biometric software that maps an individual’s facial features mathematically and stores the data as a faceprint. The software uses Deep algorithms to compare a live capture or digital image to the stored faceprint in order to verify an individual’s identity .</br>
-# Installation
-Requirements</br>
-* Python 3.3+ or Python 2.7</br>
-* macOS or Linux (Windows not officially supported, but might work)</br>
-Installing on Mac or Linux</br>
-First, make sure you have dlib already installed with Python bindings:</br>
-Then, install this module from pypi using pip3 (or pip2 for Python 2):</br>
-       <t> pip3 install face_recognition</t>
-</br>
-#Made in Group with </br>
-* Mohak Bahal</br>
-* Mohammad sofiyan</br>
+Facial Recognition falls under Biometric Software that maps an individual's facial features mathematically and stores the data as a faceprint.
+The module uses computer vision(OpenCV) in order to make use of live capture on the device being used, which is further compared to the image files stored in the database and is verified(if it exists) otherwise it highlights that the individual being scanned is "Unknown" and the database needs to be updated.
+The Biggest advantage of this module is the accuracy(more than 95%). 
+
+*NOTE:
+The Better is your Camera , the better is the Accuracy and the speed of returning Output to the user.
+
+Feel Excited? I would like you people to go through it in real-time, using this Repository.
+I have the files attached to the following Repository , go ahead with the 'Clone/Download' button and have a look at it yourself :).
+
+
