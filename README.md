@@ -1,4 +1,6 @@
-Facial Recognition falls under Biometric Software that maps an individual's facial features mathematically and stores the data as a faceprint.
+Facial Recognition
+# Heading 1 #
+falls under Biometric Software that maps an individual's facial features mathematically and stores the data as a faceprint.
 The module uses computer vision(OpenCV) in order to make use of live capture on the device being used, which is further compared to the image files stored in the database and is verified(if it exists) otherwise it highlights that the individual being scanned is "Unknown" and the database needs to be updated.
 The Biggest advantage of this module is the accuracy(more than 95%). 
 
